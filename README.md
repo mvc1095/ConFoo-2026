@@ -20,9 +20,11 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 |--------------------|---------------|---------|
 | From Zero to Emulator CHIP8 and the Art of Abstraction | David Guida | [PDF](./‎2026-02-26/chip8-emulation.pdf) |
 | Blending Product Thinking With Architecture | Joel Tosi | [PDF](./‎2026-02-26/Blending_Product_Thinking_With_Architecture-Joel_Tosi.pdf) |
+| Kubernetes on a Phone | Johannes Bechberger | [PDF](./‎2026-02-26/kubernetes-johannes_bechberger.pdf) |
 
 
 ## February 27
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
 | Tailwind CSS - Styliser sans devenir fou | Mathys Deshaies | [PDF](2026-02-27/tailwind_css_styliser_sans_devenir_fou-mathys_deshaies.pdf) |
+| JDK 25’s new CPU-Time Profiler | Johannes Bechberger | [PDF](./2026-02-27/cpu_time_profiler-johannes_bechberger.pdf) |
