@@ -15,7 +15,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 ## February 25
 
 | Presentation Title | Speaker Name  | Content |
-| ------------------ | ------------- | ------- |
+|--------------------|---------------|---------|
 | The Director to CTO path: following it, or mentoring it | Kevin Goldsmith | [Slides (PDF)](2026-02-25/The_Director_To_CTO_Path_following_it_or_mentoring_it-Kevin_Goldsmith.pdf) |
 | Figma dev mode - Survivre aux designers | Mathys Deshaies | [PDF](2026-02-25/figma_dev_mode_survivre_aux_designers-mathys_deshaies.pdf) |
 | Exploring the Power of Browser Storage | Rowdy Rabouw | [Slides (PDF)](2026-02-25/Exploring_the_Power_of_Browser_Storage_Rowdy_Rabouw.pdf) |
@@ -31,6 +31,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 
 | Presentation Title | Speaker Name  | Content |
 |--------------------|---------------|---------|
+| [/^[Rr]eg(ular\s)?[Ee]x(p\|pressions?)?$/](https://confoo.ca/en/2026/session/rr-eg-ular-s-ee-x-p-pressions) | [Jordan Kasper](https://jordankasper.com/) | [pdf](2026-02-26/Regular_Expressions-Jordan_Kasper.pdf) |
 | From Zero to Emulator CHIP8 and the Art of Abstraction | David Guida | [PDF](2026-02-26/chip8-emulation.pdf) |
 | GraphQL Distilled | Kito D. Mann | [PDF](https://virtua.tech/slides/graphql-distilled-2026/) |
 | Blending Product Thinking With Architecture | Joel Tosi | [PDF](2026-02-26/Blending_Product_Thinking_With_Architecture-Joel_Tosi.pdf) |
@@ -54,3 +55,4 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | The 2025 OWASP Top Ten | Christian Wenz | [PDF](2026-02-27/the_2025_owasp_top_ten-christian_wenz.pdf) |
 | Container Deep Dive - Namespaces, Layers, and cgroups | Daniel Mikusa | [PDF](2026-02-27/container_deep_dive_namespaces_layers_and_cgroups.pdf) & [DEMOS](https://github.com/dmikusa/container-deep-dive-slides/tree/main/demos) |
 | Becoming a Tanstack developer | Guy Nesher | [Slides (PDF)](2026-02-27/becoming_a_tanstack_developer.pdf) |
+| Gitting More Out Of Git | [Jordan Kasper](https://jordankasper.com/) | [pdf](2026-02-27/Gitting_More_Out_Of_Git-Jordan_Kasper.pdf) |
